@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/SMT6/AKB/UAS_10119078_AKB/app/src/main/res/font/font.xml" value="0.13425925925925927" />
+        <entry key="..\:/Kuliah/SMT6/AKB/UAS_10119078_AKB/app/src/main/res/font/fonts.xml" value="0.13425925925925927" />
+        <entry key="..\:/Kuliah/SMT6/AKB/UAS_10119078_AKB/app/src/main/res/layout/activity_category.xml" value="0.17806484295845998" />
+        <entry key="..\:/Kuliah/SMT6/AKB/UAS_10119078_AKB/app/src/main/res/layout/activity_home.xml" value="0.18034447821681865" />
+        <entry key="..\:/Kuliah/SMT6/AKB/UAS_10119078_AKB/app/src/main/res/layout/activity_list_note.xml" value="0.17806484295845998" />
+        <entry key="..\:/Kuliah/SMT6/AKB/UAS_10119078_AKB/app/src/main/res/layout/activity_login.xml" value="0.17350557244174267" />
+        <entry key="..\:/Kuliah/SMT6/AKB/UAS_10119078_AKB/app/src/main/res/layout/activity_main.xml" value="0.18034447821681865" />
+        <entry key="..\:/Kuliah/SMT6/AKB/UAS_10119078_AKB/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Kuliah/SMT6/AKB/UAS_10119078_AKB/app/src/main/res/layout/activity_save.xml" value="0.17755825734549138" />
+        <entry key="..\:/Kuliah/SMT6/AKB/UAS_10119078_AKB/app/src/main/res/layout/activity_save_category.xml" value="0.17806484295845998" />
+        <entry key="..\:/Kuliah/SMT6/AKB/UAS_10119078_AKB/app/src/main/res/layout/activity_sign_up.xml" value="0.171225937183384" />
+        <entry key="..\:/Kuliah/SMT6/AKB/UAS_10119078_AKB/app/src/main/res/layout/activity_splash.xml" value="0.171225937183384" />
+        <entry key="..\:/Kuliah/SMT6/AKB/UAS_10119078_AKB/app/src/main/res/layout/activity_view_pager.xml" value="0.17983789260385005" />
+        <entry key="..\:/Kuliah/SMT6/AKB/UAS_10119078_AKB/app/src/main/res/layout/custom_design_dialog.xml" value="0.17806484295845998" />
+        <entry key="..\:/Kuliah/SMT6/AKB/UAS_10119078_AKB/app/src/main/res/layout/fragment_notifications.xml" value="0.17685185185185184" />
+        <entry key="..\:/Kuliah/SMT6/AKB/UAS_10119078_AKB/app/src/main/res/layout/item_notes.xml" value="0.17755825734549138" />
+        <entry key="..\:/Kuliah/SMT6/AKB/UAS_10119078_AKB/app/src/main/res/layout/single_view_item.xml" value="0.17755825734549138" />
+        <entry key="..\:/Kuliah/SMT6/AKB/UAS_10119078_AKB/app/src/main/res/layout/slider_layout.xml" value="0.17755825734549138" />
+        <entry key="..\:/Kuliah/SMT6/AKB/UAS_10119078_AKB/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2777777777777778" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

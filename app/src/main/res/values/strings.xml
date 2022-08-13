@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UAS AKB</string>
+    <string name="action_sign_in">Register</string>
+    <string name="email">E-mail</string>
+    <string name="password_validate">Password terlalu pendek</string>
+    <string name="alamat_email">Alamat Email</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_about">About</string>
+
+    //Headings
+    <string name="heading_one">Create By</string>
+    <string name="heading_two">About This Apps</string>
+    <string name="heading_three">Menu in This Apps</string>
+    <string name="heading_fourth">This Apps For</string>
+
+    //Description
+    <string name="desc_one">10119078 - Adam Firdaus Darmawan - IF2</string>
+    <string name="desc_two">Aplikasi ini selesai dibuat pada tanggal 12 Agustus 2022 oleh 10119078 - Adam Firdaus Darmawan kelas IF2. Aplikasi ini berisi tentang mengolah catatan harian.</string>
+    <string name="desc_three">Profile, Catatan Harian, About</string>
+    <string name="desc_fourth">Tugas UAS Genap 2022 AKB Notes - 10119078</string>
+</resources>
